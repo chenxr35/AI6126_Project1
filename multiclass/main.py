@@ -28,6 +28,10 @@ if __name__ == '__main__':
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     now = datetime.datetime.now()
+
+    os.makedirs('logs', exist_ok=True)
+    os.makedirs('checkpoints', exist_ok=True)
+
     log = f'logs/finetune{FINETUNE}-{MODEL}-{now.year}-{now.month}-{now.day}-{now.hour}:{now.minute}.txt'
     checkpoint = f'checkpoints/finetune{FINETUNE}-{MODEL}-{now.year}-{now.month}-{now.day}-{now.hour}:{now.minute}.pth'
 

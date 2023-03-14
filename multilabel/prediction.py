@@ -63,6 +63,8 @@ if __name__ == '__main__':
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
+    os.makedirs('predictions', exist_ok=True)
+
     test_path = "../FashionDataset/split/test.txt"
     test_attr = "../FashionDataset/split/val_attr.txt"
 
