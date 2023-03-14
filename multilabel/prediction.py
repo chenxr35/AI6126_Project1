@@ -7,10 +7,10 @@ import torchvision.models as models
 from dataset import FashionDataset
 import os
 
-BATCH_SIZE = 128
-MODEL = 'resnet50'
+BATCH_SIZE = 64
+MODEL = 'resnet152'
 OUTPUT_DIM = 26
-CKPT = 'finetuneTrue-resnet50-2023-3-13-14:44.pth'
+CKPT = 'finetuneTrue-resnet152-2023-3-8-12:40.pth'
 
 os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 

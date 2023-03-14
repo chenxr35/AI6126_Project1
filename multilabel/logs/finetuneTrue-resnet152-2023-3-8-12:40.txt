@@ -1,0 +1,402 @@
+The model has 58,197,082 trainable parameters
+optimizer: Adam | learning rate: 0.00015383121468684762
+Epoch: 01 | Epoch Time: 0m 44s
+	Train Loss: 0.643 | Train Acc: 41.93%
+	 Val. Loss: 0.576 |  Val. Acc: 58.93%
+------------------------------------------------------------------
+Epoch: 02 | Epoch Time: 0m 43s
+	Train Loss: 0.520 | Train Acc: 63.69%
+	 Val. Loss: 0.472 |  Val. Acc: 65.86%
+------------------------------------------------------------------
+Epoch: 03 | Epoch Time: 0m 44s
+	Train Loss: 0.434 | Train Acc: 67.00%
+	 Val. Loss: 0.394 |  Val. Acc: 68.49%
+------------------------------------------------------------------
+Epoch: 04 | Epoch Time: 0m 44s
+	Train Loss: 0.372 | Train Acc: 69.13%
+	 Val. Loss: 0.341 |  Val. Acc: 70.65%
+------------------------------------------------------------------
+Epoch: 05 | Epoch Time: 0m 43s
+	Train Loss: 0.326 | Train Acc: 71.68%
+	 Val. Loss: 0.306 |  Val. Acc: 73.05%
+------------------------------------------------------------------
+Epoch: 06 | Epoch Time: 0m 44s
+	Train Loss: 0.294 | Train Acc: 73.94%
+	 Val. Loss: 0.280 |  Val. Acc: 75.18%
+------------------------------------------------------------------
+Epoch: 07 | Epoch Time: 0m 44s
+	Train Loss: 0.270 | Train Acc: 75.99%
+	 Val. Loss: 0.260 |  Val. Acc: 76.97%
+------------------------------------------------------------------
+Epoch: 08 | Epoch Time: 0m 44s
+	Train Loss: 0.248 | Train Acc: 78.35%
+	 Val. Loss: 0.245 |  Val. Acc: 78.35%
+------------------------------------------------------------------
+Epoch: 09 | Epoch Time: 0m 44s
+	Train Loss: 0.230 | Train Acc: 80.13%
+	 Val. Loss: 0.232 |  Val. Acc: 79.49%
+------------------------------------------------------------------
+Epoch: 10 | Epoch Time: 0m 44s
+	Train Loss: 0.211 | Train Acc: 82.24%
+	 Val. Loss: 0.224 |  Val. Acc: 80.10%
+------------------------------------------------------------------
+Epoch: 11 | Epoch Time: 0m 44s
+	Train Loss: 0.195 | Train Acc: 83.84%
+	 Val. Loss: 0.216 |  Val. Acc: 80.90%
+------------------------------------------------------------------
+Epoch: 12 | Epoch Time: 0m 44s
+	Train Loss: 0.177 | Train Acc: 85.33%
+	 Val. Loss: 0.213 |  Val. Acc: 81.44%
+------------------------------------------------------------------
+Epoch: 13 | Epoch Time: 0m 43s
+	Train Loss: 0.161 | Train Acc: 87.05%
+	 Val. Loss: 0.214 |  Val. Acc: 81.10%
+------------------------------------------------------------------
+Epoch: 14 | Epoch Time: 0m 44s
+	Train Loss: 0.144 | Train Acc: 88.60%
+	 Val. Loss: 0.211 |  Val. Acc: 81.94%
+------------------------------------------------------------------
+Epoch: 15 | Epoch Time: 0m 43s
+	Train Loss: 0.132 | Train Acc: 89.89%
+	 Val. Loss: 0.217 |  Val. Acc: 81.45%
+------------------------------------------------------------------
+Epoch: 16 | Epoch Time: 0m 43s
+	Train Loss: 0.115 | Train Acc: 91.32%
+	 Val. Loss: 0.222 |  Val. Acc: 81.31%
+------------------------------------------------------------------
+Epoch: 17 | Epoch Time: 0m 43s
+	Train Loss: 0.106 | Train Acc: 92.00%
+	 Val. Loss: 0.228 |  Val. Acc: 81.27%
+------------------------------------------------------------------
+Epoch: 18 | Epoch Time: 0m 43s
+	Train Loss: 0.095 | Train Acc: 93.13%
+	 Val. Loss: 0.233 |  Val. Acc: 82.06%
+------------------------------------------------------------------
+Epoch: 19 | Epoch Time: 0m 43s
+	Train Loss: 0.082 | Train Acc: 94.32%
+	 Val. Loss: 0.237 |  Val. Acc: 81.89%
+------------------------------------------------------------------
+Epoch: 20 | Epoch Time: 0m 43s
+	Train Loss: 0.075 | Train Acc: 94.99%
+	 Val. Loss: 0.262 |  Val. Acc: 80.27%
+------------------------------------------------------------------
+Epoch: 21 | Epoch Time: 0m 43s
+	Train Loss: 0.068 | Train Acc: 95.34%
+	 Val. Loss: 0.257 |  Val. Acc: 80.84%
+------------------------------------------------------------------
+Epoch: 22 | Epoch Time: 0m 44s
+	Train Loss: 0.065 | Train Acc: 95.60%
+	 Val. Loss: 0.255 |  Val. Acc: 80.92%
+------------------------------------------------------------------
+Epoch: 23 | Epoch Time: 0m 43s
+	Train Loss: 0.058 | Train Acc: 96.35%
+	 Val. Loss: 0.260 |  Val. Acc: 81.20%
+------------------------------------------------------------------
+Epoch: 24 | Epoch Time: 0m 44s
+	Train Loss: 0.047 | Train Acc: 97.09%
+	 Val. Loss: 0.288 |  Val. Acc: 80.61%
+------------------------------------------------------------------
+Epoch: 25 | Epoch Time: 0m 44s
+	Train Loss: 0.043 | Train Acc: 97.49%
+	 Val. Loss: 0.282 |  Val. Acc: 80.87%
+------------------------------------------------------------------
+Epoch: 26 | Epoch Time: 0m 44s
+	Train Loss: 0.040 | Train Acc: 97.57%
+	 Val. Loss: 0.284 |  Val. Acc: 80.65%
+------------------------------------------------------------------
+Epoch: 27 | Epoch Time: 0m 43s
+	Train Loss: 0.037 | Train Acc: 97.93%
+	 Val. Loss: 0.292 |  Val. Acc: 80.96%
+------------------------------------------------------------------
+Epoch: 28 | Epoch Time: 0m 44s
+	Train Loss: 0.034 | Train Acc: 98.03%
+	 Val. Loss: 0.292 |  Val. Acc: 81.70%
+------------------------------------------------------------------
+Epoch: 29 | Epoch Time: 0m 44s
+	Train Loss: 0.031 | Train Acc: 98.23%
+	 Val. Loss: 0.297 |  Val. Acc: 81.41%
+------------------------------------------------------------------
+Epoch: 30 | Epoch Time: 0m 43s
+	Train Loss: 0.031 | Train Acc: 98.28%
+	 Val. Loss: 0.301 |  Val. Acc: 80.91%
+------------------------------------------------------------------
+Epoch: 31 | Epoch Time: 0m 44s
+	Train Loss: 0.029 | Train Acc: 98.33%
+	 Val. Loss: 0.305 |  Val. Acc: 81.22%
+------------------------------------------------------------------
+Epoch: 32 | Epoch Time: 0m 43s
+	Train Loss: 0.027 | Train Acc: 98.53%
+	 Val. Loss: 0.303 |  Val. Acc: 81.73%
+------------------------------------------------------------------
+Epoch: 33 | Epoch Time: 0m 43s
+	Train Loss: 0.022 | Train Acc: 98.93%
+	 Val. Loss: 0.317 |  Val. Acc: 80.99%
+------------------------------------------------------------------
+Epoch: 34 | Epoch Time: 0m 43s
+	Train Loss: 0.023 | Train Acc: 98.77%
+	 Val. Loss: 0.325 |  Val. Acc: 81.18%
+------------------------------------------------------------------
+Epoch: 35 | Epoch Time: 0m 44s
+	Train Loss: 0.020 | Train Acc: 98.95%
+	 Val. Loss: 0.328 |  Val. Acc: 81.23%
+------------------------------------------------------------------
+Epoch: 36 | Epoch Time: 0m 44s
+	Train Loss: 0.019 | Train Acc: 99.00%
+	 Val. Loss: 0.326 |  Val. Acc: 80.90%
+------------------------------------------------------------------
+Epoch: 37 | Epoch Time: 0m 44s
+	Train Loss: 0.019 | Train Acc: 98.96%
+	 Val. Loss: 0.313 |  Val. Acc: 81.50%
+------------------------------------------------------------------
+Epoch: 38 | Epoch Time: 0m 43s
+	Train Loss: 0.015 | Train Acc: 99.24%
+	 Val. Loss: 0.318 |  Val. Acc: 81.84%
+------------------------------------------------------------------
+Epoch: 39 | Epoch Time: 0m 43s
+	Train Loss: 0.014 | Train Acc: 99.35%
+	 Val. Loss: 0.337 |  Val. Acc: 81.39%
+------------------------------------------------------------------
+Epoch: 40 | Epoch Time: 0m 43s
+	Train Loss: 0.016 | Train Acc: 99.13%
+	 Val. Loss: 0.343 |  Val. Acc: 81.33%
+------------------------------------------------------------------
+Epoch: 41 | Epoch Time: 0m 43s
+	Train Loss: 0.014 | Train Acc: 99.25%
+	 Val. Loss: 0.337 |  Val. Acc: 81.56%
+------------------------------------------------------------------
+Epoch: 42 | Epoch Time: 0m 43s
+	Train Loss: 0.013 | Train Acc: 99.35%
+	 Val. Loss: 0.342 |  Val. Acc: 81.33%
+------------------------------------------------------------------
+Epoch: 43 | Epoch Time: 0m 43s
+	Train Loss: 0.014 | Train Acc: 99.34%
+	 Val. Loss: 0.352 |  Val. Acc: 80.78%
+------------------------------------------------------------------
+Epoch: 44 | Epoch Time: 0m 44s
+	Train Loss: 0.019 | Train Acc: 98.80%
+	 Val. Loss: 0.360 |  Val. Acc: 80.69%
+------------------------------------------------------------------
+Epoch: 45 | Epoch Time: 0m 43s
+	Train Loss: 0.013 | Train Acc: 99.32%
+	 Val. Loss: 0.348 |  Val. Acc: 81.36%
+------------------------------------------------------------------
+Epoch: 46 | Epoch Time: 0m 44s
+	Train Loss: 0.012 | Train Acc: 99.38%
+	 Val. Loss: 0.359 |  Val. Acc: 81.27%
+------------------------------------------------------------------
+Epoch: 47 | Epoch Time: 0m 43s
+	Train Loss: 0.015 | Train Acc: 99.10%
+	 Val. Loss: 0.377 |  Val. Acc: 80.59%
+------------------------------------------------------------------
+Epoch: 48 | Epoch Time: 0m 44s
+	Train Loss: 0.019 | Train Acc: 98.88%
+	 Val. Loss: 0.362 |  Val. Acc: 80.93%
+------------------------------------------------------------------
+Epoch: 49 | Epoch Time: 0m 44s
+	Train Loss: 0.013 | Train Acc: 99.25%
+	 Val. Loss: 0.354 |  Val. Acc: 80.86%
+------------------------------------------------------------------
+Epoch: 50 | Epoch Time: 0m 44s
+	Train Loss: 0.012 | Train Acc: 99.34%
+	 Val. Loss: 0.355 |  Val. Acc: 81.84%
+------------------------------------------------------------------
+Epoch: 51 | Epoch Time: 0m 44s
+	Train Loss: 0.007 | Train Acc: 99.65%
+	 Val. Loss: 0.352 |  Val. Acc: 81.49%
+------------------------------------------------------------------
+Epoch: 52 | Epoch Time: 0m 43s
+	Train Loss: 0.006 | Train Acc: 99.73%
+	 Val. Loss: 0.355 |  Val. Acc: 81.72%
+------------------------------------------------------------------
+Epoch: 53 | Epoch Time: 0m 44s
+	Train Loss: 0.007 | Train Acc: 99.64%
+	 Val. Loss: 0.352 |  Val. Acc: 81.55%
+------------------------------------------------------------------
+Epoch: 54 | Epoch Time: 0m 43s
+	Train Loss: 0.009 | Train Acc: 99.55%
+	 Val. Loss: 0.362 |  Val. Acc: 81.76%
+------------------------------------------------------------------
+Epoch: 55 | Epoch Time: 0m 43s
+	Train Loss: 0.008 | Train Acc: 99.69%
+	 Val. Loss: 0.350 |  Val. Acc: 81.60%
+------------------------------------------------------------------
+Epoch: 56 | Epoch Time: 0m 44s
+	Train Loss: 0.006 | Train Acc: 99.76%
+	 Val. Loss: 0.362 |  Val. Acc: 81.99%
+------------------------------------------------------------------
+Epoch: 57 | Epoch Time: 0m 43s
+	Train Loss: 0.007 | Train Acc: 99.67%
+	 Val. Loss: 0.369 |  Val. Acc: 81.67%
+------------------------------------------------------------------
+Epoch: 58 | Epoch Time: 0m 44s
+	Train Loss: 0.009 | Train Acc: 99.50%
+	 Val. Loss: 0.368 |  Val. Acc: 81.69%
+------------------------------------------------------------------
+Epoch: 59 | Epoch Time: 0m 43s
+	Train Loss: 0.006 | Train Acc: 99.72%
+	 Val. Loss: 0.370 |  Val. Acc: 82.15%
+------------------------------------------------------------------
+Epoch: 60 | Epoch Time: 0m 44s
+	Train Loss: 0.007 | Train Acc: 99.62%
+	 Val. Loss: 0.374 |  Val. Acc: 81.43%
+------------------------------------------------------------------
+Epoch: 61 | Epoch Time: 0m 44s
+	Train Loss: 0.006 | Train Acc: 99.61%
+	 Val. Loss: 0.379 |  Val. Acc: 81.47%
+------------------------------------------------------------------
+Epoch: 62 | Epoch Time: 0m 44s
+	Train Loss: 0.007 | Train Acc: 99.69%
+	 Val. Loss: 0.369 |  Val. Acc: 81.89%
+------------------------------------------------------------------
+Epoch: 63 | Epoch Time: 0m 44s
+	Train Loss: 0.005 | Train Acc: 99.81%
+	 Val. Loss: 0.365 |  Val. Acc: 82.39%
+------------------------------------------------------------------
+Epoch: 64 | Epoch Time: 0m 44s
+	Train Loss: 0.006 | Train Acc: 99.72%
+	 Val. Loss: 0.377 |  Val. Acc: 81.44%
+------------------------------------------------------------------
+Epoch: 65 | Epoch Time: 0m 44s
+	Train Loss: 0.007 | Train Acc: 99.67%
+	 Val. Loss: 0.377 |  Val. Acc: 81.31%
+------------------------------------------------------------------
+Epoch: 66 | Epoch Time: 0m 44s
+	Train Loss: 0.011 | Train Acc: 99.46%
+	 Val. Loss: 0.368 |  Val. Acc: 81.44%
+------------------------------------------------------------------
+Epoch: 67 | Epoch Time: 0m 44s
+	Train Loss: 0.008 | Train Acc: 99.60%
+	 Val. Loss: 0.381 |  Val. Acc: 81.37%
+------------------------------------------------------------------
+Epoch: 68 | Epoch Time: 0m 44s
+	Train Loss: 0.004 | Train Acc: 99.84%
+	 Val. Loss: 0.372 |  Val. Acc: 81.84%
+------------------------------------------------------------------
+Epoch: 69 | Epoch Time: 0m 44s
+	Train Loss: 0.005 | Train Acc: 99.80%
+	 Val. Loss: 0.377 |  Val. Acc: 81.75%
+------------------------------------------------------------------
+Epoch: 70 | Epoch Time: 0m 44s
+	Train Loss: 0.004 | Train Acc: 99.80%
+	 Val. Loss: 0.379 |  Val. Acc: 81.58%
+------------------------------------------------------------------
+Epoch: 71 | Epoch Time: 0m 43s
+	Train Loss: 0.004 | Train Acc: 99.85%
+	 Val. Loss: 0.376 |  Val. Acc: 81.98%
+------------------------------------------------------------------
+Epoch: 72 | Epoch Time: 0m 44s
+	Train Loss: 0.004 | Train Acc: 99.81%
+	 Val. Loss: 0.381 |  Val. Acc: 81.86%
+------------------------------------------------------------------
+Epoch: 73 | Epoch Time: 0m 44s
+	Train Loss: 0.004 | Train Acc: 99.84%
+	 Val. Loss: 0.373 |  Val. Acc: 82.09%
+------------------------------------------------------------------
+Epoch: 74 | Epoch Time: 0m 44s
+	Train Loss: 0.003 | Train Acc: 99.91%
+	 Val. Loss: 0.378 |  Val. Acc: 81.98%
+------------------------------------------------------------------
+Epoch: 75 | Epoch Time: 0m 44s
+	Train Loss: 0.003 | Train Acc: 99.92%
+	 Val. Loss: 0.381 |  Val. Acc: 81.77%
+------------------------------------------------------------------
+Epoch: 76 | Epoch Time: 0m 43s
+	Train Loss: 0.003 | Train Acc: 99.88%
+	 Val. Loss: 0.377 |  Val. Acc: 81.92%
+------------------------------------------------------------------
+Epoch: 77 | Epoch Time: 0m 44s
+	Train Loss: 0.004 | Train Acc: 99.89%
+	 Val. Loss: 0.382 |  Val. Acc: 81.72%
+------------------------------------------------------------------
+Epoch: 78 | Epoch Time: 0m 43s
+	Train Loss: 0.003 | Train Acc: 99.82%
+	 Val. Loss: 0.386 |  Val. Acc: 81.90%
+------------------------------------------------------------------
+Epoch: 79 | Epoch Time: 0m 43s
+	Train Loss: 0.003 | Train Acc: 99.87%
+	 Val. Loss: 0.386 |  Val. Acc: 81.72%
+------------------------------------------------------------------
+Epoch: 80 | Epoch Time: 0m 44s
+	Train Loss: 0.002 | Train Acc: 99.94%
+	 Val. Loss: 0.388 |  Val. Acc: 81.59%
+------------------------------------------------------------------
+Epoch: 81 | Epoch Time: 0m 43s
+	Train Loss: 0.003 | Train Acc: 99.91%
+	 Val. Loss: 0.387 |  Val. Acc: 81.88%
+------------------------------------------------------------------
+Epoch: 82 | Epoch Time: 0m 44s
+	Train Loss: 0.002 | Train Acc: 99.91%
+	 Val. Loss: 0.385 |  Val. Acc: 81.46%
+------------------------------------------------------------------
+Epoch: 83 | Epoch Time: 0m 44s
+	Train Loss: 0.002 | Train Acc: 99.98%
+	 Val. Loss: 0.381 |  Val. Acc: 81.83%
+------------------------------------------------------------------
+Epoch: 84 | Epoch Time: 0m 44s
+	Train Loss: 0.002 | Train Acc: 99.95%
+	 Val. Loss: 0.379 |  Val. Acc: 81.85%
+------------------------------------------------------------------
+Epoch: 85 | Epoch Time: 0m 43s
+	Train Loss: 0.003 | Train Acc: 99.91%
+	 Val. Loss: 0.385 |  Val. Acc: 81.86%
+------------------------------------------------------------------
+Epoch: 86 | Epoch Time: 0m 43s
+	Train Loss: 0.003 | Train Acc: 99.87%
+	 Val. Loss: 0.389 |  Val. Acc: 81.90%
+------------------------------------------------------------------
+Epoch: 87 | Epoch Time: 0m 43s
+	Train Loss: 0.002 | Train Acc: 99.96%
+	 Val. Loss: 0.384 |  Val. Acc: 82.12%
+------------------------------------------------------------------
+Epoch: 88 | Epoch Time: 0m 44s
+	Train Loss: 0.002 | Train Acc: 99.94%
+	 Val. Loss: 0.382 |  Val. Acc: 81.67%
+------------------------------------------------------------------
+Epoch: 89 | Epoch Time: 0m 43s
+	Train Loss: 0.002 | Train Acc: 99.90%
+	 Val. Loss: 0.391 |  Val. Acc: 81.92%
+------------------------------------------------------------------
+Epoch: 90 | Epoch Time: 0m 43s
+	Train Loss: 0.002 | Train Acc: 99.96%
+	 Val. Loss: 0.378 |  Val. Acc: 81.83%
+------------------------------------------------------------------
+Epoch: 91 | Epoch Time: 0m 43s
+	Train Loss: 0.002 | Train Acc: 99.97%
+	 Val. Loss: 0.383 |  Val. Acc: 81.84%
+------------------------------------------------------------------
+Epoch: 92 | Epoch Time: 0m 43s
+	Train Loss: 0.004 | Train Acc: 99.81%
+	 Val. Loss: 0.384 |  Val. Acc: 81.92%
+------------------------------------------------------------------
+Epoch: 93 | Epoch Time: 0m 43s
+	Train Loss: 0.002 | Train Acc: 99.93%
+	 Val. Loss: 0.380 |  Val. Acc: 81.84%
+------------------------------------------------------------------
+Epoch: 94 | Epoch Time: 0m 43s
+	Train Loss: 0.001 | Train Acc: 99.96%
+	 Val. Loss: 0.381 |  Val. Acc: 81.75%
+------------------------------------------------------------------
+Epoch: 95 | Epoch Time: 0m 44s
+	Train Loss: 0.002 | Train Acc: 99.91%
+	 Val. Loss: 0.386 |  Val. Acc: 81.61%
+------------------------------------------------------------------
+Epoch: 96 | Epoch Time: 0m 43s
+	Train Loss: 0.002 | Train Acc: 99.90%
+	 Val. Loss: 0.383 |  Val. Acc: 81.99%
+------------------------------------------------------------------
+Epoch: 97 | Epoch Time: 0m 44s
+	Train Loss: 0.002 | Train Acc: 99.94%
+	 Val. Loss: 0.387 |  Val. Acc: 81.94%
+------------------------------------------------------------------
+Epoch: 98 | Epoch Time: 0m 44s
+	Train Loss: 0.002 | Train Acc: 99.97%
+	 Val. Loss: 0.383 |  Val. Acc: 81.85%
+------------------------------------------------------------------
+Epoch: 99 | Epoch Time: 0m 43s
+	Train Loss: 0.002 | Train Acc: 99.97%
+	 Val. Loss: 0.380 |  Val. Acc: 81.79%
+------------------------------------------------------------------
+Epoch: 100 | Epoch Time: 0m 44s
+	Train Loss: 0.001 | Train Acc: 99.95%
+	 Val. Loss: 0.386 |  Val. Acc: 82.08%
+------------------------------------------------------------------
