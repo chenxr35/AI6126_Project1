@@ -16,7 +16,7 @@ class FashionDataset(Dataset):
             self.img_files.append(line.strip('\n'))
 
         img_attr = pd.read_table(attr_file, sep='\s', header=None)
-        self.attrs = np.array(img_attr)
+        self.img_attrs = np.array(img_attr)
 
         if transform:
             self.transform = transform
@@ -28,7 +28,7 @@ class FashionDataset(Dataset):
 
     def __getitem__(self, index):
         img_file = self.img_files[index]
-        label = self.attrs[index]
+        label = self.img_attrs[index]
         img = Image.open(os.path.join("../FashionDataset", img_file)).convert('RGB')
         img = self.transform(img)
         return img, label

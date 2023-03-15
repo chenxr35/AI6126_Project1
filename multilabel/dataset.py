@@ -25,18 +25,18 @@ class FashionDataset(Dataset):
         category_5 = ['denim', 'chiffon', 'cotton', 'leather', 'faux', 'knit']
         category_6 = ['tight', 'loose', 'conventional']
         categories = [category_1, category_2, category_3, category_4, category_5, category_6]
-        attrs = collections.defaultdict(list)
+        img_attrs = collections.defaultdict(list)
         for index, row in img_attr.iterrows():
             for i in range(6):
                 category = categories[i]
                 for cat in category:
-                    attrs[cat].append(0)
+                    img_attrs[cat].append(0)
                 index = row[i]
                 key = category[index]
-                attrs[key].pop()
-                attrs[key].append(1)
-        attrs = pd.DataFrame(attrs)
-        self.attrs = np.array(attrs)
+                img_attrs[key].pop()
+                img_attrs[key].append(1)
+        img_attrs = pd.DataFrame(img_attrs)
+        self.img_attrs = np.array(img_attrs)
 
         if transform:
             self.transform = transform
@@ -48,7 +48,7 @@ class FashionDataset(Dataset):
 
     def __getitem__(self, index):
         img_file = self.img_files[index]
-        label = self.attrs[index]
+        label = self.img_attrs[index]
         img = Image.open(os.path.join("../FashionDataset", img_file)).convert('RGB')
         img = self.transform(img)
         return img, label
