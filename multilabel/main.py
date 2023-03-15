@@ -18,8 +18,8 @@ os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 
 BATCH_SIZE = 64
 OUTPUT_DIM = 26
-EPOCHS = 30
-MODEL = 'resnet152'
+EPOCHS = 60
+MODEL = 'resnet101'
 FINETUNE = True
 LR = 1e-3
 OPTIM = 'Adam'

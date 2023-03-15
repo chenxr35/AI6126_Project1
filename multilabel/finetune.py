@@ -11,7 +11,7 @@ def finetune(model, train_iterator, valid_iterator, device):
 
     def objective(trial):
         params = {
-            'learning_rate': trial.suggest_loguniform('learning_rate', 1e-5, 1e-1),
+            'learning_rate': trial.suggest_loguniform('learning_rate', 1e-5, 1e-3),
             'optimizer': trial.suggest_categorical("optimizer", ["Adam"])
         }
 
